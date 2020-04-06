@@ -1,0 +1,18 @@
+/* Header Start */
+header{
+	height: 100px;
+	background-color: #014678;
+	color: #FFF;
+}
+
+header h3{
+	margin: 35px 0 0 0;
+	display: inline-block;
+}
+
+header li{
+	margin: 33px 0 0 0;
+	float: right;
+	list-style: none;
+}
+/* Header End */
